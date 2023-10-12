@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Thomas Cheale"
   avatar           : "me.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "An Engineering and Physical Science Research Council (EPSRC) funded PhD researcher focusing on the use of statistics, data science, and mathematics for ecological problems. Aspires to establish a career that bridges the gap between industry and academia, particularly within Statistical Ecology or Biological Statistics."
+  location         : "Canterbury, Kent, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
